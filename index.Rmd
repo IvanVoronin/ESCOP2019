@@ -1,0 +1,14 @@
+---
+title: "Voronin - ESCOP2019 Supplementary"
+author: "Ivan Voronin"
+date: "9/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This file will contain supplementary materials for the poster: I. Voronin, L. Merzon, I. Voronina 'RT_tests: A new test battery to assess individual differences in mental speed'.
